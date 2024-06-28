@@ -7,7 +7,7 @@ import screens.*;
 
 import java.awt.*;
 
-public class HomeworkOneTest extends BaseTest {
+public class HomeworkTwoTest extends BaseTest {
     private final String MASTODON_SOCIAL_SERVER = "mastodon.social";
 
     @Test
