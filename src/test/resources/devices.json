@@ -1,0 +1,9 @@
+{
+  "Pixel3": {
+    "capabilities": {
+      "deviceName": "Android device",
+      "udid": "emulator-5554",
+      "platformVersion": "13.0"
+    }
+  }
+}
